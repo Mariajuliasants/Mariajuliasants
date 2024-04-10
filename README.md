@@ -16,5 +16,6 @@
 < a href=
   
 </div>
-
+##
+![Maju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariajuliasants&show_icons=true&theme=dracula)
 
