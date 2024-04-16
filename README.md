@@ -8,6 +8,8 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="maria-c" heigth="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=f6f4f4">
 <img align="center" alt="maria-c" heigth="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=f6f4f4">
+<img align="center" alt="maria-c" heigth="30" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
+  
 </div> 
 
 ##
