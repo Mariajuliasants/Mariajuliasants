@@ -1,5 +1,5 @@
 ## 𓇢𓆸 Oii Eu sou a Maria Júlia,curso Técnico em Desenvolvimento de Sistemas.
-###  Atualmente estou estudando Java, Python, e SQL.
+###  Atualmente estou estudando Java,C++ e SQL.
 
 
 ###
