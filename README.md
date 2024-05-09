@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
 <img align="center" alt="maria-c" heigth="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=f6f4f4">
 <img align="center" alt="maria-c" heigth="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=f6f4f4">
-<img align="center" alt="maria-c" heigth="30" width="40" src="https://icongr.am/devicon/cplusplus-line.svg?size=128&color=currentColor">
+<img align="center" alt="maria-c" heigth="30" width="40" src="https://icongr.am/devicon/cplusplus-plain.svg?size=128&color=ffffff">
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
  <i class="devicon-azuresqldatabase-plain "></i>       
   
