@@ -1,28 +1,45 @@
-## 𓇢𓆸 Oii Eu sou a Maria Júlia,curso Técnico em Desenvolvimento de Sistemas.
-###  Atualmente estou estudando Java,C++ e SQL.
+<h1 align="center">
+    <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/2a44157a-944d-4c1c-869f-1a79e52106a9 " alt="MasterHead" width= "350px>
+  </a>
+</h1>
 
 
 ###
 
-
-<div style="display: inline_block"><br>
-<img align="center" alt="maria-c" heigth="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=f6f4f4">
-<img align="center" alt="maria-c" heigth="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=f6f4f4">
-<img align="center" alt="maria-c" heigth="30" width="40" src="https://icongr.am/devicon/cplusplus-plain.svg?size=128&color=ffffff">
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
- <i class="devicon-azuresqldatabase-plain "></i>       
-  
-  
-</div> 
-
-##
-
-
-###
-<div>
-<a href="www.linkedin.com/in/mariajuliasants" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "mailto:contmariajulia@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">
+<img src= "https://github.com/Mariajuliasants/controle-fluxo/assets/141661649/78ecbf46-8dc4-4a5a-b2a3-12dafa7866c8" alt="MasterHead" width= "1000px" />
 </div>
 
 
+
+<h3 align="center">Languages and Tools</h3>
+
+<p align="center">
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+</p>
+  
+</div> 
+
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Mariajuliasants/Mariajuliasants">
+ <img align="center" src= "https://github-readme-stats.vercel.app/api?username=Mariajuliasants&show_icons=true&theme=rose">
+ </a>
+
+
+ <a href="https://github.com/Mariajuliasants/Mariajuliasants">
+ <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Mariajuliasants&layout=compact&icons=true&theme=rose"] 
+  src= "https://github.com/Mariajuliasants/github-readme-stats" 
+  </a>
+
+![Register - Login](https://github.com/Mariajuliasants/controle-fluxo/assets/141661649/f56e6043-b593-49b2-a287-caca1631674b)
+
+
+
+![visitors](https://vbr.nathanchung.dev/badge?page_id=Mariajuliasants.Mariajuliasants&color=ffadbb)
+
+![Register - Login](https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/312c8b98-77e4-407d-a5e5-224852134205)
 
