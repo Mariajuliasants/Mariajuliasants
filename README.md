@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/2a44157a-944d-4c1c-869f-1a79e52106a9 " alt="MasterHead" width= "450px>
+    <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/2a44157a-944d-4c1c-869f-1a79e52106a9 " alt="MasterHead" width= "250px>
   </a>
 </h1>
 
