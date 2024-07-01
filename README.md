@@ -1,8 +1,3 @@
-<h1 align="center">
-    <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/400fbbad-c0e0-4f9d-a91b-ae3716cb4b78 " alt="MasterHead" width= "250px>
-  </a>
-</h1>
-
 
 
 
@@ -13,7 +8,13 @@
 <img src= "https://github.com/Mariajuliasants/controle-fluxo/assets/141661649/78ecbf46-8dc4-4a5a-b2a3-12dafa7866c8" alt="MasterHead" width= "1000px" />
 </div>
 
+<h1 align="center">
+    <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/400fbbad-c0e0-4f9d-a91b-ae3716cb4b78 " alt="MasterHead" width= "350px>
+  </a>
+</h1>
 
+
+###
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -44,5 +45,8 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Mariajuliasants.Mariajuliasants&color=ffadbb)
 
-![Register - Login](https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/312c8b98-77e4-407d-a5e5-224852134205)
+
+
+
+
 
