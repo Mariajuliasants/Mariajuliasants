@@ -1,5 +1,8 @@
 
-
+<h3 align="center">
+    <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/400fbbad-c0e0-4f9d-a91b-ae3716cb4b78 " alt="MasterHead" width= "350px>
+  </a>
+</h3>
 
 
 ###
@@ -8,10 +11,6 @@
 <img src= "https://github.com/Mariajuliasants/controle-fluxo/assets/141661649/78ecbf46-8dc4-4a5a-b2a3-12dafa7866c8" alt="MasterHead" width= "1000px" />
 </div>
 
-<h1 align="center">
-    <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/400fbbad-c0e0-4f9d-a91b-ae3716cb4b78 " alt="MasterHead" width= "350px>
-  </a>
-</h1>
 
 
 ###
