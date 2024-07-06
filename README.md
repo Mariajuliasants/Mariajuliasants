@@ -20,10 +20,18 @@
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55" alt="My Sql" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
+      <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/ae8673ee-e8d9-443f-9d11-62b0baf84510 " alt="html" width="60" height="60"/>
+      <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/3049c35e-2eca-4e10-9898-5d39cb5db847 " alt="css" width="60" height="60"/>
+
+      </a>
 </p>
-  
+
+
+
+
+
 </div> 
 
 
