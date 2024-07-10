@@ -25,7 +25,7 @@
       <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/ae8673ee-e8d9-443f-9d11-62b0baf84510 " alt="html" width="60" height="60"/>
       <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/3049c35e-2eca-4e10-9898-5d39cb5db847 " alt="css" width="60" height="60"/>
 
-      </a>
+
 </p>
 
 
