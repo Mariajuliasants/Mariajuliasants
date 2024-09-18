@@ -2,11 +2,7 @@
 
 
 
-###
 
-<div align="center">
-<img src= "https://github.com/Mariajuliasants/controle-fluxo/assets/141661649/78ecbf46-8dc4-4a5a-b2a3-12dafa7866c8" alt="MasterHead" width= "1000px" />
-</div>
 
 
 
