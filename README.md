@@ -11,12 +11,7 @@
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55" alt="My Sql" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-      <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/ae8673ee-e8d9-443f-9d11-62b0baf84510 " alt="html" width="60" height="60"/>
-      <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/3049c35e-2eca-4e10-9898-5d39cb5db847 " alt="css" width="60" height="60"/>
+    
 
 
 </p>
@@ -29,15 +24,10 @@
 
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Mariajuliasants/Mariajuliasants">
- <img align="center" src= "https://github-readme-stats.vercel.app/api?username=Mariajuliasants&show_icons=true&theme=rose">
- </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
- <a href="https://github.com/Mariajuliasants/Mariajuliasants">
- <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Mariajuliasants&layout=compact&icons=true&theme=rose"] 
-  src= "https://github.com/Mariajuliasants/github-readme-stats" 
-  </a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&icons=true&theme=transparent)
 
 ![Register - Login](https://github.com/Mariajuliasants/controle-fluxo/assets/141661649/f56e6043-b593-49b2-a287-caca1631674b)
 
