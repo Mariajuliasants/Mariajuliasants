@@ -1,8 +1,5 @@
 
-<h3 align="center">
-    <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/400fbbad-c0e0-4f9d-a91b-ae3716cb4b78 " alt="MasterHead" width= "350px>
-  </a>
-</h3>
+
 
 
 ###
