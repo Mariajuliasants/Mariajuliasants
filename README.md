@@ -43,8 +43,7 @@
 
 &nbsp;
 &nbsp;
-&nbsp;
-&nbsp;
+<br>
 
 ## 📫 Let's Connect!  
 <p align="left">
