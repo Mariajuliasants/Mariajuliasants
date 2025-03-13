@@ -24,14 +24,15 @@
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>&nbsp;
 </div>
 
+
+  <img src="https://github.com/user-attachments/assets/5d092f4d-1858-43bf-86d9-50b0bb942d01" min-width="400px" max-width="200px" width="200px" align="right" alt="Github gif" >
+  
 ### Databases:
 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
   <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE"/>&nbsp;
 
 
-
-  <img src="https://github.com/user-attachments/assets/5d092f4d-1858-43bf-86d9-50b0bb942d01" min-width="400px" max-width="200px" width="200px" align="right" alt="Github gif" >
 
 
 ### Studying in this moment:
