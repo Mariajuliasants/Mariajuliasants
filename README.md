@@ -1,52 +1,55 @@
+# Hi there! 👋 I'm Maria Júlia  
 
-<h3 align="center">
-    <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/400fbbad-c0e0-4f9d-a91b-ae3716cb4b78 " alt="MasterHead" width= "350px>
-  </a>
-</h3>
+💻 **Back-End Developer | Passionate About Technology**  
+🎯 Focused on building scalable and efficient solutions.  
 
+## 🚀 About Me  
+- 📚 Currently studying **Software Development**.  
+- 👩‍🏫 Working as a **Programming and Robotics Instructor**, teaching kids and teenagers how to code.  
+- 🌱 Interested in **backend development, cloud computing, and system architecture**.
 
+## My Skills
 
-###
-
-<div align="center">
-<img src= "https://github.com/Mariajuliasants/controle-fluxo/assets/141661649/78ecbf46-8dc4-4a5a-b2a3-12dafa7866c8" alt="MasterHead" width= "1000px" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>&nbsp;
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>&nbsp;
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>&nbsp;
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>&nbsp;
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>&nbsp;
 </div>
 
+### Databases:
+
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE"/>&nbsp;
 
 
-###
 
-<h3 align="center">Languages and Tools</h3>
-
-<p align="center">
- <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
- <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55" alt="My Sql" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
- <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/ae8673ee-e8d9-443f-9d11-62b0baf84510 " alt="html" width="60" height="60"/>
- <img src="https://github.com/Mariajuliasants/Mariajuliasants/assets/141661649/3049c35e-2eca-4e10-9898-5d39cb5db847 " alt="css" width="60" height="60"/>
+  <img src="https://github.com/user-attachments/assets/5d092f4d-1858-43bf-86d9-50b0bb942d01" min-width="400px" max-width="200px" width="200px" align="right" alt="Github gif" >
 
 
+### Studying in this moment:
+
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>&nbsp;
+  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>&nbsp;
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>&nbsp;
+
+
+&nbsp;
+&nbsp;
+
+## 📫 Let's Connect!  
+<p align="left">
+  <a href="https://www.linkedin.com/in/mariajuliasants">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:contmariajulia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
-
-
-
-
-
-</div> 
-
-
-## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Mariajuliasants/Mariajuliasants">
-<img align="center" src= "https://github-readme-stats.vercel.app/api?username=Mariajuliasants&show_icons=true&theme=rose">
-</a>
-
-
-<a href="https://github.com/Mariajuliasants/Mariajuliasants">
-<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Mariajuliasants&layout=compact&icons=true&theme=rose"] 
-src= "https://github.com/Mariajuliasants/github-readme-stats" 
-</a>
-
-![Register - Login](https://github.com/Mariajuliasants/controle-fluxo/assets/141661649/f56e6043-b593-49b2-a287-caca1631674b)
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=Mariajuliasants.Mariajuliasants&color=ffadbb)
