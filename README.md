@@ -1,7 +1,7 @@
 # Olá! 👋🏼 Eu sou Maria Júlia  
 
 💻 **Desenvolvedora Back-End**  
-
+Trainne Back-end Titan[<img align="left" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)<br />
 
 ##  Sobre Mim  
 -   Cursando Engenharia da Computação| UFBA
@@ -43,6 +43,7 @@
   <a href="https://www.linkedin.com/in/mariajuliasants" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
   <a href="mailto:contmariajulia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
