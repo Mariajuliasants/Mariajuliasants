@@ -1,7 +1,7 @@
 # Olá! 👋🏼 Eu sou Maria Júlia  
 
 💻 **Desenvolvedora Back-End**  
-Trainne Back-end Titan[<img align="left" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)<br />
+Trainne Back-end [<img align="left" width="10%" src="https://www.titanci.com.br/_next/static/media/LogoHeader.d28544ae.svg"/>](https://titanci.com.br)<br />
 
 ##  Sobre Mim  
 -   Cursando Engenharia da Computação| UFBA
