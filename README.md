@@ -1,6 +1,6 @@
 # Olá! 👋🏼 Eu sou Maria Júlia  
 
-💻 **Desenvolvedora Back-End **  
+💻 **Desenvolvedora Back-End**  
 
 
 ##  Sobre Mim  
