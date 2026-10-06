@@ -1,10 +1,11 @@
 # Olá! 👋🏼 Eu sou Maria Júlia  
 
-💻 **Desenvolvedora Back-End | Apaixonada por Tecnologia**  
- Focada em construir soluções escaláveis e eficientes.  
+💻 **Desenvolvedora Back-End **  
+
 
 ##  Sobre Mim  
--  Técnica em **Desenvolvimento de Sistemas**.  
+-   Cursando Engenharia da Computação| UFBA
+-   Técnico em Desenvolvimento de Sistema | Senai  
 -  Atuei como **Instrutora de Programação e Robótica**, ensinando crianças e adolescentes a programar.  
 -  Interessada em **desenvolvimento backend, computação em nuvem e arquitetura de sistemas**.
 
@@ -32,9 +33,6 @@
 
 
 
-###  Estudando no momento:
- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>&nbsp;
-
 
 &nbsp;
 &nbsp;
@@ -42,7 +40,7 @@
 
 ## 📫 Vamos nos Conectar!  
 <p align="left">
-  <a href="https://www.linkedin.com/in/mariajuliasants">
+  <a href="https://www.linkedin.com/in/mariajuliasants" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:contmariajulia@gmail.com">
